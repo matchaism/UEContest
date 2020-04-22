@@ -21,8 +21,11 @@ UEContestは、UECの学生対象の、AtCoderを用いた初心者向けのバ�
 
 ## Staff
 * [grobner](https://twitter.com/bokuroro)
+  - C++
 * [maccha](https://twitter.com/macchaakamaccha)
+  - Python
 * [tonphy](https://twitter.com/tonphy_1322007)
+  - C++, Python
 
 ## Links
 * [AtCoder](https://atcoder.jp/)
