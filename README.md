@@ -38,3 +38,5 @@ UEContestは、UECの学生対象の、AtCoderを用いた初心者向けのバ�
   * [AtCoder Virtual Contest](https://not-522.appspot.com/)
   * [AtCoder Problems](https://kenkoooo.com/atcoder/)
   * [GitHub](https://github.com/)
+  * [Qiita](https://qiita.com/)
+  * [note.nkmk.me](https://note.nkmk.me/)
