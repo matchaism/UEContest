@@ -14,6 +14,7 @@ UEContestは、UECの学生対象の、AtCoderを用いた初心者向けのバ�
 ## Upcoming Contests
 * [UEContest 02](https://not-522.appspot.com/contest/4833554393464832)
   - 2020/04/29 21:00-22:00 (JST)
+  - - [詳細](./UEContest02/about.md)
 
 * UEContest 03
   - 2020/05/06 21:00-22:00 (JST)
@@ -21,7 +22,6 @@ UEContestは、UECの学生対象の、AtCoderを用いた初心者向けのバ�
 ## Recent Contests
 * [UEContest 01](https://not-522.appspot.com/contest/5687465664839680)
   - 2020/04/22 21:00-22:00 (JST)
-  - [詳細](./UEContest02/about.md)
 
 ## Staff
 * [grobner](https://twitter.com/bokuroro)
