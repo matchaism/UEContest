@@ -12,29 +12,29 @@ UEContestは、UECの学生対象の、AtCoderを用いた初心者向けのバ�
 質問はStaff(下記)まで。
 
 ## Upcoming Contests
-* [UEContest 02](https://not-522.appspot.com/contest/4833554393464832)
-  - 2020/04/29 21:00-22:00 (JST)
-  - [Detail](./UEContest02/detail.md)
-    - 特に初心者の方は必見!
+  * [UEContest 02](https://not-522.appspot.com/contest/4833554393464832)
+    - 2020/04/29 21:00-22:00 (JST)
+    - [Detail](./UEContest02/detail.md)
+      - 特に初心者の方は必見!
 
-* UEContest 03
-  - 2020/05/06 21:00-22:00 (JST)
+  * UEContest 03
+    - 2020/05/06 21:00-22:00 (JST)
 
 ## Recent Contests
-* [UEContest 01](https://not-522.appspot.com/contest/5687465664839680)
-  - 2020/04/22 21:00-22:00 (JST)
+  * [UEContest 01](https://not-522.appspot.com/contest/5687465664839680)
+    - 2020/04/22 21:00-22:00 (JST)
 
 ## Staff
-* [grobner](https://twitter.com/bokuroro)
-  - C++
-* [maccha](https://twitter.com/macchaakamaccha)
-  - Python
-* [tonphy](https://twitter.com/tonphy_1322007)
-  - C++, Python
+  * [grobner](https://twitter.com/bokuroro)
+    - C++
+  * [maccha](https://twitter.com/macchaakamaccha)
+    - Python
+  * [tonphy](https://twitter.com/tonphy_1322007)
+    - C++, Python
 
 ## Links
-* [AtCoder](https://atcoder.jp/)
-* [AtCoder's Testcases](https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAYlTq2tiEHl5hsESw6-yfLa?dl=0)
-* [AtCoder Virtual Contest](https://not-522.appspot.com/)
-* [AtCoder Problems](https://kenkoooo.com/atcoder/)
-* [GitHub](https://github.com/)
+  * [AtCoder](https://atcoder.jp/)
+  * [AtCoder's Testcases](https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAYlTq2tiEHl5hsESw6-yfLa?dl=0)
+  * [AtCoder Virtual Contest](https://not-522.appspot.com/)
+  * [AtCoder Problems](https://kenkoooo.com/atcoder/)
+  * [GitHub](https://github.com/)
