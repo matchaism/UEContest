@@ -1,16 +1,19 @@
 # UEContest 03
-Coming soon!
-
-# UEContest 02
 <dl>
   <dt>開催日</dt>
   <dd>2020/05/06 21:00-22:00 (JST)</dd>
   <dt>コンテストページ</dt>
-  <dd><a href="">Coming soon!</a></dd>
+  <dd><a href="https://not-522.appspot.com/contest/5666331238072320">UEContest 03</a></dd>
 </dl>
 
 ## Preparation
-Coming soon!
+  * **高 校 数 学**
+  * **高 校 数 学**
+  * **高 校 数 学**
 
 ## Comments
-Coming soon!
+  * 講義開講前の最後のコンテストです。
+  * 前回は、B問題が解けている方が多くなっていましたね！
+    - うれしい！
+    - 解けていなくても大丈夫！
+  * 皆さん、今回は数学力(高校過程まで)が試されるコンテストでもあります！
