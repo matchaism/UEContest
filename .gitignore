@@ -1,4 +1,3 @@
 formaccha/
-UEContest03/C++/
-UEContest03/Python/
-UEContest03/appendix/
+additional_explanation_03.*
+!(additional_explanation_03.tex)
