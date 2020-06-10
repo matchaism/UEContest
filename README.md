@@ -9,7 +9,7 @@ UEContestは、UECの学生対象の、AtCoderを用いた初心者向けのバ�
 
 このリポジトリでは、AtCoder様の解説を元に作成した解答例を掲載しております。言語は、C++とPythonを予定しております。バチャコン終了後に、公開する予定です。
 
-質問はStaff(下記)まで。
+質問はStaff(下記)まで
 
 ## Upcoming Contests
 
